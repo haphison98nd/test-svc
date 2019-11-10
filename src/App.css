@@ -20,3 +20,30 @@
 .App-link {
   color: #09d3ac;
 }
+.wrapper{
+  margin-top: 20px;
+}
+ul.list-repo{
+  list-style-type:decimal-leading-zero;
+  margin-top: 20px;
+}
+ul.list-repo li{
+  font-size: 18px;
+  line-height: 2;
+}
+
+input.username, input.btn-submit{
+  margin-left: 20px;
+  padding: 5px 10px;
+}
+
+input.btn-submit{
+  border: 1px solid #5cb85c;
+}
+
+button.showmore{
+  margin: 0 auto;
+  display: block;
+  width: 200px;
+  padding:  10px;
+}
